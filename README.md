@@ -76,15 +76,16 @@ Subnet Examples:
 
 /12 → RikY.AliA.0001.LoVe (single host)
 
+
 🌐 IPv4/IPv6 Compatibility
 
 IPv7 addresses can be mapped into existing IPv4/IPv6 infrastructure:
 
-IPv7 → IPv4 mapping
+- IPv7 → IPv4 mapping
 Numeric addresses compressed into 32-bit space.
 Example: 123.456.789.012 (/3) → 192.168.0.1
 
-IPv7 → IPv6 mapping
+- IPv7 → IPv6 mapping
 Alphanumeric addresses encoded into IPv6 hexadecimal fields.
 Example: RikY.AliA.0001.LoVe (/4) → 2001:db8:7269:6b79:616c:6961:3030:3031
 
